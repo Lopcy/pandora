@@ -44,5 +44,5 @@ Rotation Farm  Full Feature :
 ```
 Price? = 1 Diamond Lock / License 
 1 License Can Use At 1 Device / Rdp
-Buy? Join [Discord](https://discord.gg/6DyvneWBrM)
+Buy? Join Discord : https://discord.gg/6DyvneWBrM
 ```
